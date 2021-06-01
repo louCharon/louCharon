@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Image](https://img.shields.io/badge/%E4%BB%A3%E7%A0%81%E5%B7%A5%E5%85%B7-Hbuilder%E3%80%81Webstorm-blue)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
