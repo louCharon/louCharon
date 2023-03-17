@@ -1,10 +1,10 @@
 ## Hellow World
 
-### Skill
-- Skyline Gis(★☆)
-- Vue(★)
-- SVGA(☆)
-- Live2D(☆)
+### Tech
+- Skyline Gis
+- Vue
+- SVGA
+- Live2D
 
 ### Tool
 ![](https://img.shields.io/badge/%E4%BB%A3%E7%A0%81%E5%B7%A5%E5%85%B7-Hbuilder%2CWebstorm-blue)
